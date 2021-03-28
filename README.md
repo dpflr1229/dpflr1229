@@ -3,7 +3,8 @@
 저는 
 >전자정보통신공학과
 >>19학번 이명준 입니다
->>>^_^
+------------------------
+^_^
 
 <!--
 **dpflr1229/dpflr1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
