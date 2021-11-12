@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dpflr1229
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dpflr1229/dpflr1229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import os
+os.environ['KAGGLE_USERNAME']='dpflr1229'
+os.environ['KAGGLE_KEY']='53b52792156ac8b3ab57f9ca38373cc1'
+!캐글데이터
+!unzip '*.zip'
