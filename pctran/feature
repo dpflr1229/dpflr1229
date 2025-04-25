@@ -73,3 +73,4 @@
 72: WTRA
 73: WTRB
 74: WUP
+['ATWS', 'FLB', 'LACP', 'LLB', 'LOCA', 'LOCAC', 'LOF', 'LR', 'MD', 'NORM', 'SGATR', 'SGBTR', 'SLBIC', 'SLBOC', 'SP', 'TT'])
