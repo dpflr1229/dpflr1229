@@ -1,76 +1,76 @@
-0: DNBR
-1: DTHY
-2: DWB
-3: HLW
-4: HTR
-5: HUP
-6: LSGA
-7: LSGB
-8: LVCR
-9: LVPZ
-10: LWRB
-11: NSGA
-12: NSGB
-13: P
-14: PPM
-15: PRB
-16: PRBA
-17: PSGA
-18: PSGB
-19: PWNT
-20: PWR
-21: QMGA
-22: QMGB
-23: QMWT
-24: RBLK
-25: RC131
-26: RC87
-27: RH
-28: RHBR
-29: RHFL
-30: RHMT
-31: RHRD
-32: RM1
-33: RM2
-34: RM3
-35: RM4
-36: SCMA
-37: SCMB
-38: SGLK
-39: STRB
-40: STSG
-41: STTB
-42: TAVG
-43: TBLD
-44: TCA
-45: TCB
-46: TF
-47: TFPK
-48: TFSB
-49: THA
-50: THB
-51: TPCT
-52: TRB
-53: TSAT
-54: VOID
-55: VOL
-56: WBK
-57: WCFT
-58: WCHG
-59: WCSP
-60: WECS
-61: WFWA
-62: WFWB
-63: WHPI
-64: WLR
-65: WRCA
-66: WRCB
-67: WRLA
-68: WRLB
-69: WSPY
-70: WSTA
-71: WSTB
-72: WTRA
-73: WTRB
-74: WUP
-['ATWS', 'FLB', 'LACP', 'LLB', 'LOCA', 'LOCAC', 'LOF', 'LR', 'MD', 'NORM', 'SGATR', 'SGBTR', 'SLBIC', 'SLBOC', 'SP', 'TT'])
+0: DNBR 
+1: DTHY - Dose Rate EAB Thyroid(mR/h)
+2: DWB - Dose Rate EAB Whole Body(mR/h)
+3: HLW - Spec Enthalpy RCS leak(t/h)
+4: HTR - Power Pressurizer heater(kW)
+5: HUP - Spec Enthalpy Przr top discharge(kW/kJ)
+6: LSGA - Level SG A wide range(m)
+7: LSGB - Level SG B wide range(m)
+8: LVCR - Level Core water(m)
+9: LVPZ - Level Pressurizer(%)
+10: LWRB - Level containment sump water(m)
+11: NSGA - Level SG A narrow range(%)
+12: NSGB - Level SG B narrow range(%)
+13: P - RCS Pressure(MPa)
+14: PPM - Concentration RCS Boron(ppm)
+15: PRB - Press Containment(MPa)
+16: PRBA - Press Partial Containment Air(MPa)
+17: PSGA - Pressure Steam generator A(MPa)
+18: PSGB - Pressure Steam generator B(MPa)
+19: PWNT - Power Neutron Flux(%)
+20: PWR - Power Core thermal(%)
+21: QMGA - Power SG A heat removal(MW)
+22: QMGB - Power SG B heat removal(MW)
+23: QMWT - Power Total megawatt thermal(MW)
+24: RBLK - Mass Total Leakgage out of containment(kg)
+25: RC131 - Concentration RC I-131 Eq(Ci/gm)
+26: RC87 - Concentration RC Kr-87 Eq(Ci/gm)
+27: RH - Power RHR removal rate(MW)
+28: RHBR - Reactivity Soluble boron(%dk/k)
+29: RHFL - Reactivity Fuel (Doppler)(%dk/k)
+30: RHMT - Reactivity Mod temperature(%dk/k)
+31: RHRD - Reactivity Rod(%dk/k)
+32: RM1 - Rad Monitor containment air(mR/h)
+33: RM2 - Rad Monitor Steam Line(mR/h)
+34: RM3 - Rad Monitor Condenser Off-gas(mR/h)
+35: RM4 - Rad Monitor Aux Building Air(mR/h)
+36: SCMA - Temp Loop A subcooling margin(℃)
+37: SCMB - Temp Loop B subcooling margin(℃)
+38: SGLK - Mass Total Leakgage out of SGs(kg)
+39: STRB - Rad Rel Rate containment(Ci/s)
+40: STSG - Rad Rel Rate SG Valves(Ci/s)
+41: STTB - Rad Rel Rate Condenser Off-gas(Ci/s)
+42: TAVG - Temperature RCS average (℃)
+43: TBLD - Power Turbine load(%)
+44: TCA - Temperature Cold leg A(℃)
+45: TCB - Temperature Cold leg B(℃)
+46: TF - Temp Average fuel(℃)
+47: TFPK - Temp Peak fuel(℃)
+48: TFSB - Temp Submerged fuel average(℃)
+49: THA - Temperature Hot leg A(℃)
+50: THB - Temperature Hot leg A(℃)
+51: TPCT - Temp Peak clad(℃)
+52: TRB - Temp Containment Air(℃)
+53: TSAT - Temperature Przr saturation(℃)
+54: VOID - Void of RCS(%)
+55: VOL - Volume RCS liquid(%)
+56: WBK - Flow Total break entering containment(t/h)
+57: WCFT - Flow SIT(t/h)
+58: WCHG - Flow Charging(t/h)
+59: WCSP - Flow Containment spray(t/h)
+60: WECS - Flow Total ECCS(t/h)
+61: WFWA - Flow SG A feedwater(t/h)
+62: WFWB - Flow SG B feedwater(t/h)
+63: WHPI - Flow HPI(t/h)
+64: WLR - Flow RCS leak(t/h)
+65: WRCA - Flow Reactor coolant loop A(t/h)
+66: WRCB - Flow Reactor coolant loop B(t/h)
+67: WRLA - Flow SG A MSV/ADV(t/h)
+68: WRLB - Flow SG B MSV/ADV(t/h)
+69: WSPY - Flow Pressurizer spray(t/h)
+70: WSTA - Flow SG A steam(t/h)
+71: WSTB - Flow SG B steam(t/h)
+72: WTRA - Flow SG A tube leak(t/h)
+73: WTRB - Flow SG B tube leak(t/h)
+74: WUP - Flow Przr PORV and safeties
+74: WUP - Flow Przr PORV and safeties
